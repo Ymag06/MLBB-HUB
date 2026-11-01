@@ -1,0 +1,73 @@
+// Fictional teams. `color` only tints the placeholder logo.
+export const teams = [
+  {
+    id: "nova-vanguard",
+    name: "Nova Vanguard",
+    acronym: "NVG",
+    color: "#8b5cf6",
+  },
+  {
+    id: "crimson-tide",
+    name: "Crimson Tide",
+    acronym: "CRT",
+    color: "#ef4444",
+  },
+  { id: "iron-lotus", name: "Iron Lotus", acronym: "IRL", color: "#94a3b8" },
+  {
+    id: "azure-phoenix",
+    name: "Azure Phoenix",
+    acronym: "AZP",
+    color: "#3b82f6",
+  },
+  {
+    id: "storm-cadets",
+    name: "Storm Cadets",
+    acronym: "STC",
+    color: "#0ea5e9",
+  },
+  {
+    id: "jade-serpents",
+    name: "Jade Serpents",
+    acronym: "JDS",
+    color: "#22c55e",
+  },
+  { id: "neon-wolves", name: "Neon Wolves", acronym: "NWV", color: "#ec4899" },
+  { id: "solar-drift", name: "Solar Drift", acronym: "SLD", color: "#f97316" },
+  {
+    id: "frost-kingdom",
+    name: "Frost Kingdom",
+    acronym: "FRK",
+    color: "#67e8f9",
+  },
+  { id: "ember-guild", name: "Ember Guild", acronym: "EMG", color: "#f59e0b" },
+  { id: "tidal-kings", name: "Tidal Kings", acronym: "TDK", color: "#2563eb" },
+  {
+    id: "obsidian-order",
+    name: "Obsidian Order",
+    acronym: "OBO",
+    color: "#d946ef",
+  },
+  {
+    id: "golden-mantis",
+    name: "Golden Mantis",
+    acronym: "GLM",
+    color: "#eab308",
+  },
+  {
+    id: "shadow-harbor",
+    name: "Shadow Harbor",
+    acronym: "SHH",
+    color: "#14b8a6",
+  },
+  { id: "dune-riders", name: "Dune Riders", acronym: "DNR", color: "#d97706" },
+  { id: "aurora-five", name: "Aurora Five", acronym: "AUF", color: "#34d399" },
+  { id: "lunar-foxes", name: "Lunar Foxes", acronym: "LNF", color: "#fb7185" },
+  { id: "rogue-atlas", name: "Rogue Atlas", acronym: "RGA", color: "#a3e635" },
+  { id: "sand-vipers", name: "Sand Vipers", acronym: "SDV", color: "#fcd34d" },
+  {
+    id: "mirage-kings",
+    name: "Mirage Kings",
+    acronym: "MRK",
+    color: "#c084fc",
+  },
+];
